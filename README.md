@@ -6,13 +6,13 @@
 
 ## Courses in this Program
 
-1) [Introduction to Deep Learning](#TODO) 
-2) [How to Win a Data Science Competition: Learn from Top Kagglers - TODO](#TODO)
-3) [Bayesian Methods for Machine Learning](#TODO)
-4) [Practical Reinforcement Learning - TODO](#TODO)
-5) [Deep Learning in Computer Vision - TODO](#TODO)
-6) [Natural Language Processing - TODO](#TODO)
-7) [Addressing Large Hadron Collider Challenges by Machine Learning - TODO](#TODO)
+1) [Introduction to Deep Learning](https://github.com/AlessandroCorradini/National-Research-University-Higher-School-of-Economics-Advanced-Machine-Learning-Specialization/tree/master/01%20-%20Introduction%20to%20Deep%20Learning) 
+2) [How to Win a Data Science Competition: Learn from Top Kagglers - TODO](https://github.com/AlessandroCorradini/National-Research-University-Higher-School-of-Economics-Advanced-Machine-Learning-Specialization/tree/master/02%20-%20How%20to%20Win%20a%20Data%20Science%20Competition%20-%20Learn%20from%20Top%20Kagglers)
+3) [Bayesian Methods for Machine Learning](https://github.com/AlessandroCorradini/National-Research-University-Higher-School-of-Economics-Advanced-Machine-Learning-Specialization/tree/master/03%20-%20Bayesian%20Methods%20for%20Machine%20Learning)
+4) [Practical Reinforcement Learning - TODO](https://github.com/AlessandroCorradini/National-Research-University-Higher-School-of-Economics-Advanced-Machine-Learning-Specialization/tree/master/04%20-%20Practical%20Reinforcement%20Learning)
+5) [Deep Learning in Computer Vision - TODO](https://github.com/AlessandroCorradini/National-Research-University-Higher-School-of-Economics-Advanced-Machine-Learning-Specialization/tree/master/05%20-%20Deep%20Learning%20in%20Computer%20Vision)
+6) [Natural Language Processing - TODO](https://github.com/AlessandroCorradini/National-Research-University-Higher-School-of-Economics-Advanced-Machine-Learning-Specialization/tree/master/06%20-%20Natural%20Language%20Processing)
+7) [Addressing Large Hadron Collider Challenges by Machine Learning - TODO](https://github.com/AlessandroCorradini/National-Research-University-Higher-School-of-Economics-Advanced-Machine-Learning-Specialization/tree/master/07%20-%20Addressing%20Large%20Hadron%20Collider%20Challenges%20by%20Machine%20Learning)
 
 ## Certificate of Completition
 You can see the [Certificate of Completition - TODO](#TODO) and other certificates in my [Certificates Repo](https://github.com/AlessandroCorradini/Certificates) that contains all my certificates obtained through my journey as a self-made Data Science and better developer.
