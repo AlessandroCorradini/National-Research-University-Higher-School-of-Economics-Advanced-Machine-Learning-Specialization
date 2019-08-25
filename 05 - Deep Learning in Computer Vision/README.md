@@ -11,8 +11,8 @@
 - Object tracking and action recognition
 - Image segmentation and synthesis
 
-## Certificate of Completition
-You can see the [Certificate of Completition - TODO](TODO) and other certificates in my [Certificates Repo](https://github.com/AlessandroCorradini/Certificates) that contains all my certificates obtained through my journey as a self-made Data Science and better developer.
+## Certificate of Completion
+You can see the [Certificate of Completion - TODO](TODO) and other certificates in my [Certificates Repo](https://github.com/AlessandroCorradini/Certificates) that contains all my certificates obtained through my journey as a self-made Data Science and better developer.
 
 <br/>
 
